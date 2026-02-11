@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **medical observational studies**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently working with **Python** and **SQL** 
 
 - 👯 I’m looking to collaborate on **data science projects**
 
